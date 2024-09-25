@@ -9,7 +9,7 @@ import numpy as np
 
 from libs.Read_pdf import read_pdf
 
-read_pdf("../data/pdf-marked-demo.pdf")
+read_pdf("demo.pdf")
 
 
 
