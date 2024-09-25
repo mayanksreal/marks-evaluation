@@ -47,15 +47,17 @@
 Download from runtime storage and make any required polish. 
 
 <h2> On<a name="_page3_x69.00_y390.92"></a> Local Machine </h2>
-1. **!! Ensure python 3.10+  is installed.** 
+
+**!! Ensure python 3.10+  is installed.**
+
 1. Navigate to **./app-implementation** 
 
 ![](Readme/Aspose.Words.c6930981-946c-44c3-a121-aee600182e7c.007.png)
 
-3. Run **./app-implementation/main.py** 
+2. Run **./app-implementation/main.py** 
 
 ![](Readme/Aspose.Words.c6930981-946c-44c3-a121-aee600182e7c.008.jpeg)
 
-4. Check **./output** 
+3. Check **./output** 
 
 ![](Readme/Aspose.Words.c6930981-946c-44c3-a121-aee600182e7c.009.png)
